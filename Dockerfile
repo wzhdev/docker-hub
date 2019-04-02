@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.5.3
+FROM quay.io/coreos/prometheus:v1.1.1
