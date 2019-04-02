@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base:latest
+FROM gcr.io/knative-releases/github.com/knative/build/build-base:latest
