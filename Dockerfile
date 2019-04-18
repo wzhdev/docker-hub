@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.7
+FROM k8s.gcr.io/pause:3.1
