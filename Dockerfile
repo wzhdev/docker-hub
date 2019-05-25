@@ -1,1 +1,1 @@
-FROM gcr.io/cloud-builders/mvn
+FROM quay.io/rhdevelopers/quarkus-java-builder:graal-1.0.0-rc15
