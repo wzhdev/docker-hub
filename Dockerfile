@@ -1,1 +1,1 @@
-FROM quay.io/coreos/vault-operator:0.1.9
+FROM quay.io/jetstack/cert-manager-controller
