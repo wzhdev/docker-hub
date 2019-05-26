@@ -1,1 +1,1 @@
-FROM quay.io/rhdevelopers/quarkus-java-builder:graal-1.0.0-rc15
+FROM quay.io/coreos/vault-operator:0.1.9
