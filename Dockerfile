@@ -1,1 +1,1 @@
-FROM  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.24.1
+FROM  gcr.io/google_containers/metrics-server-amd64:v0.3.2
