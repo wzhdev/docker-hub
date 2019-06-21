@@ -1,1 +1,1 @@
-FROM  gcr.io/google_containers/metrics-server-amd64:v0.3.2
+FROM  k8s.gcr.io/kube-apiserver:v1.14.3
