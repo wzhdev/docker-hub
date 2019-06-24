@@ -1,1 +1,1 @@
-FROM  k8s.gcr.io/coredns:1.3.1
+FROM  quay.io/coreos/flannel:v0.11.0-amd64
