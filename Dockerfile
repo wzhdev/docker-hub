@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.7.0
+FROM gcr.io/google-containers/hyperkube:v1.9.0
