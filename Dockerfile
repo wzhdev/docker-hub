@@ -1,1 +1,1 @@
-FROM quay.io/munnerz/apiextensions-ca-helper:v0.1.0
+FROM quay.io/jetstack/cert-manager-controller:v0.11.0
