@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.7.0
+FROM quay.io/jetstack/cert-manager-controller:v0.6.2
