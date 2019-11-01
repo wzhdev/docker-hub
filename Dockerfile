@@ -1,1 +1,1 @@
-FROM quay.io/jetstack/cert-manager-webhook:v0.6.2
+FROM quay.io/munnerz/apiextensions-ca-helper:v0.6.2
