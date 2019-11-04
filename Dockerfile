@@ -1,1 +1,1 @@
-FROM gcr.io/spiffe-io/spire-agent:a211e075c1f44026efdeb89e9a9081e1898d5214
+FROM gcr.io/spiffe-io/wait-for-it
