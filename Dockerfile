@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-state-metrics:v1.6.0
+FROM gcr.io/spiffe-io/spire-server:a211e075c1f44026efdeb89e9a9081e1898d5214
