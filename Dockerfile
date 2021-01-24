@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:1a3e46d680c9a4178687d2283b4097f176b1896ccd42dc232d133d570296ad2f
+FROM gcr.io/kaniko-project/executor:v1.3.0
