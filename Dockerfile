@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/csi-attacher:v3.1.0
+FROM sig-storage/csi-external-health-monitor-agent:v0.2.0
