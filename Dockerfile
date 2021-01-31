@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/hostpathplugin:v1.5.0
+FROM kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller:1.1
