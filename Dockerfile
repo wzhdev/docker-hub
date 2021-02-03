@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.1
+FROM gcr.io/distroless/static:latest
