@@ -1,3 +1,2 @@
 #dd
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
-
+FROM gcr.io/distroless/base:latest
