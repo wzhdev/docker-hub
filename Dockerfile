@@ -1,2 +1,2 @@
 #dd
-FROM ghcr.io/dexidp/dex:v2.27.0
+FROM gcr.io/heptio-images/ks-guestbook-demo:0.2
