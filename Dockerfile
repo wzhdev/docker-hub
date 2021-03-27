@@ -1,2 +1,2 @@
 #dd
-FROM gcr.io/heptio-images/ks-guestbook-demo:0.2
+FROM ghcr.io/helm/chartmuseum:v0.13.1
