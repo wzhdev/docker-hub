@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:nonroot
+FROM appsmith/appsmith-ce:latest
