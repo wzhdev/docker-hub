@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.9.3
+FROM kindest/node:v1.23.4
