@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:nonroot
+FROM kindest/haproxy:v20210715-a6da3463
