@@ -1,1 +1,1 @@
-FROM kindest/haproxy:v20210715-a6da3463
+FROM docker.io/calico/node:v3.22.1
