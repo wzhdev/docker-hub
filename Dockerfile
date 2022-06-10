@@ -1,1 +1,1 @@
-FROM docker.io/istio/examples-bookinfo-reviews-v1:1.16.2
+FROM gcr.io/distroless/static:nonroot
