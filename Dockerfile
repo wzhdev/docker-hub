@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static:latest
+FROM k8s.gcr.io/pause:3.5
