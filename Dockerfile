@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/defaultbackend-amd64:1.5
+FROM k8s.gcr.io/external-dns/external-dns:v0.12.0
