@@ -1,1 +1,1 @@
-FROM docker.io/bitnami/etcd:3.5.4-debian-10-r0
+FROM k8s.gcr.io/external-dns/external-dns:v0.12.0
