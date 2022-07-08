@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/e2e-test-images/agnhost:2.32
+FROM k8s.gcr.io/ingress-nginx/controller:v0.43.0
