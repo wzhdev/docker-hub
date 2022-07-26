@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.42.0
+FROM k8s.gcr.io/kube-apiserver:v1.21.7
