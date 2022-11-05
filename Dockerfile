@@ -1,1 +1,1 @@
-FROM kindest/node:v1.22.9
+FROM kindest/haproxy:v20210715-a6da3463
