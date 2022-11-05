@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.21.7
+FROM kindest/node:v1.22.15
