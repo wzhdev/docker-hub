@@ -1,1 +1,1 @@
-FROM kindest/node:v1.19.16
+FROM trustworthysystems/camkes
