@@ -1,1 +1,1 @@
-FROM kindest/node:v1.20.15
+FROM kindest/node:v1.24.12
