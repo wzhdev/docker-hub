@@ -1,1 +1,1 @@
-FROM kindest/node:v1.24.12
+FROM k8s.gcr.io/kube-apiserver:v1.22.4
